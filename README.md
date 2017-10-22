@@ -1,5 +1,12 @@
 # kotlin-vim
 
+## Changes from udalov/kotlin-vim
+
+- removed indent
+- removed syntastic
+
+Reason: something interfered with LeaderF. I tracked it to this plugin and I don't care about that functionality right now.
+
 ## Installation
 
 ### [Vundle](https://github.com/gmarik/Vundle.vim)
